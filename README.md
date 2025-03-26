@@ -6,7 +6,8 @@ Welcome to this project! This is a solution for the assignments in [Everybody Co
 
 Before running this project, make sure you have the following installed:  
 
-- **Node.js** (NPM is included with most Node.js installations)  
+- **Node.js** 
+- **NPM** (if not yet installed (NPM is included with most Node.js installations))
 
 ## CLI Usage  
 
